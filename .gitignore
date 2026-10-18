@@ -1,0 +1,4 @@
+.venv/
+output/
+ghost2md.config.json
+__pycache__/
